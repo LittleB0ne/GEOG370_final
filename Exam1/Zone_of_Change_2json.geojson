@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Zone_of_Change_2json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Change": "Addition of MassPort Fire Station Complex" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.003195692713177, 42.365254878580835 ], [ -71.002055150512362, 42.365441280032627 ], [ -71.001743229990737, 42.364328986720921 ], [ -71.002896716272645, 42.364172089379153 ], [ -71.003195692713177, 42.365254878580835 ] ] ] ] } }
+]
+}
